@@ -1,1 +1,1 @@
-# -TwitterMoodDiagram
+# TwitterMoodDiagram
