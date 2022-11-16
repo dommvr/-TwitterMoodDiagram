@@ -1,0 +1,6 @@
+matplotlib==3.6.2
+numpy==1.23.4
+pandas==1.5.1
+pandas_stubs==1.2.0.62
+textblob==0.9.0
+tweepy==4.12.1
