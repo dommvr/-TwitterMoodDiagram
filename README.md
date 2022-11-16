@@ -1,6 +1,6 @@
 # TwitterSentimentChart
 
-Simple project that show pie chart of tweets sentiment.
+Simple project that show pie chart of tweets sentiment
 
 # Setup
  - Create a Twitter Developers account https://developer.twitter.com/en 
